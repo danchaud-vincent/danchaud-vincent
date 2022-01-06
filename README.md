@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there 👋
+## I'm Vincent !
+### I'm a Machine Learning Engineer 👨‍💻
 
-<!--
-**danchaud-vincent/danchaud-vincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on The Frontend Developer Career Path by Scrimba
+🌱 I’m currently learning Javascript, React, APIs.
+🤾🏻 I have been playing Handball for 15 years.
+👨🏻‍🍳 I love cooking and learning new recipe
+⚡ I love the art of filmmaking, series and movies!
 
-Here are some ideas to get you started:
+👔 linkedin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
