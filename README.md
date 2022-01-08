@@ -9,6 +9,6 @@
 
 👔 [Linkedin][Linkedin] | 👨‍💻 [codingame][codingame]
 
-[Linkedin]: https://www.linkedin.com/in/vincent-danchaud-499a36207/
+[Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
 
