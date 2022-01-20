@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on the Deep Learning specialization on Coursera.
 - 🌱 I’m currently learning Javascript, React, APIs on The Frontend Developer Career Path by Scrimba.
 - 🤾🏻 I have been playing Handball for 15 years.
-- 👨🏻‍🍳 I love cooking and learning new recipe
+- 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
 - ⚡ I love the art of filmmaking, series and movies!
 
+### Connect with me :
 👔 [Linkedin][Linkedin] | 👨‍💻 [codingame][codingame]
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
