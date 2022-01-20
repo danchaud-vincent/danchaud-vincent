@@ -12,9 +12,7 @@
 
 ### Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danchaud-vincent&layout=compact)](https://github.com/danchaud-vincent/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
