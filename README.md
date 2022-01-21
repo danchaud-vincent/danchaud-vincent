@@ -9,8 +9,7 @@
 
 ## My Certifications 🎓
 
-![image](https://user-images.githubusercontent.com/92050525/150539392-babbb2fd-ab0d-4c29-9324-c39388d08982.png)
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][Coursera] Neural Networks and Deep learning
 
 ### Connect with me :
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] | 👨‍💻 [codingame][codingame]
@@ -33,4 +32,5 @@
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
+[Coursera]: https://www.coursera.org/account/accomplishments/verify/PPN693EN7KV8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
 
