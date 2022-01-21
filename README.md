@@ -7,6 +7,11 @@
 - 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
 - ⚡ I love the art of filmmaking, series and movies!
 
+## My Certifications 🎓
+
+![image](https://user-images.githubusercontent.com/92050525/150539392-babbb2fd-ab0d-4c29-9324-c39388d08982.png)
+
+
 ### Connect with me :
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] | 👨‍💻 [codingame][codingame]
 
