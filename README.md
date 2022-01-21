@@ -9,10 +9,10 @@
 
 ## My Certifications 🎓
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> Neural Networks and Deep learning - [Coursera]<br>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Neural Networks and Deep learning][Coursera]<br>
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> Data Analysis with Python - [Freecodecamp Data]<br>
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> Scientific Computing with Python- [Freecodecamp Python]<br>
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> PCAP – Certified Associate in Python Programming - [PCAP-31-03 Python]<br>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> PCAP – Certified Associate in Python Programming - [PCAP-31-03 Python]
 
 <br>
 
