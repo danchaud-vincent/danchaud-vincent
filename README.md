@@ -10,7 +10,7 @@
 ## My Certifications 🎓
 
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
-Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization][Coursera]
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization][Coursera-Optimization]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - Neural Networks and Deep learning][Coursera]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> [Freecodecamp - Data Analysis with Python][Freecodecamp Data]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> [Freecodecamp - Scientific Computing with Python][Freecodecamp Python]
@@ -38,6 +38,7 @@ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimi
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
+[Coursera-Optimization]: https://www.coursera.org/account/accomplishments/verify/3QY4AWN5XDQB
 [Coursera]: https://www.coursera.org/account/accomplishments/verify/PPN693EN7KV8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
 [Freecodecamp Data]: https://www.freecodecamp.org/certification/fcc1802c57a-1dee-40db-adba-98df02ba3c2d/data-analysis-with-python-v7
 [Freecodecamp Python]: https://www.freecodecamp.org/certification/fcc1802c57a-1dee-40db-adba-98df02ba3c2d/scientific-computing-with-python-v7
