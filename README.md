@@ -9,6 +9,8 @@
 
 ## My Certifications 🎓
 
+- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization][Coursera]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - Neural Networks and Deep learning][Coursera]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> [Freecodecamp - Data Analysis with Python][Freecodecamp Data]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> [Freecodecamp - Scientific Computing with Python][Freecodecamp Python]
