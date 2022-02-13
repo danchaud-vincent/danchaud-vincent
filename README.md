@@ -10,6 +10,8 @@
 ## My Certifications 🎓
 
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
+Structuring Machine Learning Projects][Coursera-ML Strategy]
+- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization][Coursera-Optimization]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - Neural Networks and Deep learning][Coursera]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> [Freecodecamp - Data Analysis with Python][Freecodecamp Data]
@@ -38,6 +40,7 @@ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimi
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
+[Coursera-ML Strategy]: https://coursera.org/share/2f38a67836df9b0d7c132044ea7aa595
 [Coursera-Optimization]: https://coursera.org/share/1c36f790efc08f600d31d4c06e4fe5e4
 [Coursera]: https://coursera.org/share/a93ef229512c0425619a2c5231dca072
 [Freecodecamp Data]: https://www.freecodecamp.org/certification/fcc1802c57a-1dee-40db-adba-98df02ba3c2d/data-analysis-with-python-v7
