@@ -10,6 +10,8 @@
 ## My Certifications 🎓
 
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
+Convolutional Neural Networks][Coursera-CNN]
+- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
 Structuring Machine Learning Projects][Coursera-ML Strategy]
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization][Coursera-Optimization]
@@ -40,6 +42,7 @@ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimi
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
+[Coursera-CNN]: https://coursera.org/share/122cba9143270d32671815a3d623ca5c
 [Coursera-ML Strategy]: https://coursera.org/share/2f38a67836df9b0d7c132044ea7aa595
 [Coursera-Optimization]: https://coursera.org/share/1c36f790efc08f600d31d4c06e4fe5e4
 [Coursera]: https://coursera.org/share/a93ef229512c0425619a2c5231dca072
