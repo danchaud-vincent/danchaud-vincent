@@ -9,6 +9,13 @@
 - 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
 - ⚡ I love the art of filmmaking, series and movies!
 
+## Connect with me :
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vincent-danchaud/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## My Certifications 🎓
 
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" /> [Coursera - 
@@ -27,8 +34,6 @@ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimi
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> [PCAP-31-0 – Certified Associate in Python Programming][PCAP-31-03 Python]
 <br>
 
-### Connect with me :
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] | 👨‍💻 [codingame][codingame]
 
 ### Languages and Tools :
 
