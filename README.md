@@ -8,9 +8,10 @@
 - 🤾🏻 I have been playing Handball for 15 years.
 - 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
 - ⚡ I love the art of filmmaking, series and movies!
+-
+<b> Connect with me :</b>
 
 <div id="badges">
-  <a>Connect with me : </a>
   <a href="https://www.linkedin.com/in/vincent-danchaud/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
