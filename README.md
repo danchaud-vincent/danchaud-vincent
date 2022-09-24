@@ -1,4 +1,4 @@
-<div align="center"><img src='./yumicode.gif'></div>
+<div align="center"><img src='./machine_learning.gif'></div>
 
 # Hello there 👋 I'm Vincent !
 ## I'm a Machine Learning Engineer 👨‍💻
