@@ -8,7 +8,7 @@
 - 🤾🏻 I have been playing Handball for 15 years.
 - 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
 - ⚡ I love the art of filmmaking, series and movies!
--
+
 <b> Connect with me :</b>
 
 <div id="badges">
@@ -48,7 +48,16 @@ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimi
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-### Stats :
+### 📚 Stats :
+
+<hr>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=danchaud-vincent&show_icons=true&theme=highcontrast'></div>
+
+<hr>
+
+<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=danchaud-vincent&layout=compact&theme=highcontrast'></div>
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danchaud-vincent)](https://github.com/anuraghazra/github-readme-stats)
 
