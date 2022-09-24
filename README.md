@@ -1,7 +1,9 @@
+<div align="center"><img src='./yumicode.gif'></div>
+
 # Hello there 👋 I'm Vincent !
 ## I'm a Machine Learning Engineer 👨‍💻
 
-- :france: 
+- 💻 I'm a Machine Learning Engineer working on different data science project for the company Expleo Group
 - 🌱 I’m currently learning Deep Learning with TensorFlow on the Zero To Mastery: Tensorflow course.
 - 🤾🏻 I have been playing Handball for 15 years.
 - 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
