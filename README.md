@@ -50,16 +50,10 @@ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimi
 
 ### 📚 Stats :
 
-<hr>
 <div align="center"><img src='https://github-readme-stats.vercel.app/api?username=danchaud-vincent&show_icons=true&theme=highcontrast'></div>
-
-<hr>
 
 <div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=danchaud-vincent&layout=compact&theme=highcontrast'></div>
 
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danchaud-vincent)](https://github.com/anuraghazra/github-readme-stats)
 
 [Linkedin]: https://www.linkedin.com/in/vincent-danchaud/
 [codingame]: https://www.codingame.com/profile/cc89f98f9ae9f32329ee23e1910f0cb19743464
