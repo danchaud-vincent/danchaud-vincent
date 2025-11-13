@@ -1,5 +1,5 @@
 # Hello there 👋 I'm Vincent !
-## I'm a Machine Learning Engineer 👨‍💻
+## I'm a Fullstack Developer and Engineer 👨‍💻
 
 - 💻 I'm an Engineer learning the skills to become a Fullstack Developer.
 -🤾🏻 I have been playing Handball for 15 years.
