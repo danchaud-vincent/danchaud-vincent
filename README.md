@@ -1,11 +1,9 @@
-<div align="center"><img src='./machine_learning.gif'></div>
-
 # Hello there 👋 I'm Vincent !
 ## I'm a Machine Learning Engineer 👨‍💻
 
-- 💻 I'm a Machine Learning Engineer working on different data science project for the company Expleo Group
-- 🌱 I’m currently learning Deep Learning with TensorFlow on the Zero To Mastery: Tensorflow course.
-- 🤾🏻 I have been playing Handball for 15 years.
+- 💻 I'm an Engineer learning the skills to become a Fullstack Developer.
+-🤾🏻 I have been playing Handball for 15 years.
+- I also do improvisational theatre.
 - 👨🏻‍🍳 I love cooking and learning new recipes.For me cooking is a way of discovering new things and experimenting everyday. 
 - ⚡ I love the art of filmmaking, series and movies!
 
